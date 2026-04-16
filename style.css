@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(115, 14, 209);
+    color: aliceblue;
+    max-width: 100%;
+    padding-left: 200px;
+    padding-left: 200px;
+}
+img{
+    width: 250px;
+}
+#img-perfil{
+width: 250px; 
+}
+header{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    max-width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(189, 161, 126);
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+}
+button{
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 15px;
+
+#sobre{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+
+}]
+#infor{
+ display: flex;   
+ flex-direction: column;
+ height: 300px;
+ max-width: 100%;
+ justify-content: center;
+ align-items: center;
+}
+#tecnologias{
+ display: flex; 
+ flex-direction: row;  
+ height: 10px;
+ justify-content:space-around ;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15px;
+}
+#linkedin{
+width: 20px;
